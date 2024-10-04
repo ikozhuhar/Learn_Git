@@ -1,4 +1,4 @@
-### githowto
+### Learn Git
 
 #### <a name='toc'>Содержание</a>
 1. [Создаём виртуальные машины](#create_vm)
