@@ -112,6 +112,9 @@ git commit -m "Unrelated change to c"
 3. переменная среды `VISUAL`
 4. переменная среды `EDITOR`
 
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
 У меня переменная `EDITOR` установлена в vim. Если вы предпочитаете GUI-редактор, то теперь можно использовать VS Code в качестве [Git-редактора](https://code.visualstudio.com/docs/sourcecontrol/overview#_vs-code-as-git-editor).
 
 Сделайте коммит сейчас и проверьте состояние.
