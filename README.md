@@ -9,6 +9,7 @@
 6. [Коммит изменений](#commit_changes)
 7. [Изменения, а не файлы](#changes,_not_files)
 8. [История](#history)
+9. [Команды Git](#command)
 
 #### 1. [[⬆]](#toc) <a name='create_project'>Создание проекта</a>
 Цели: Научиться создавать Git-репозиторий с нуля.
@@ -227,8 +228,18 @@ git log --pretty=format:"%h %ad | %s%d [%an]" --date=short
 ```
 git config --global format.pretty '%h %ad | %s%d [%an]'
 git config --global log.date short
-```
 
+
+#### 8. [[⬆]](#toc) <a name='command'>Команды Git</a>
+```
+commit  
+branch  
+checkout  
+cherry-pick  
+reset  
+revert  
+rebase  
+merge  
 
 
 
