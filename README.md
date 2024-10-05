@@ -18,13 +18,14 @@ echo "Hello, World" >> hello.html
 ```
 git init
 ```
-![image](https://github.com/user-attachments/assets/d3bc4f50-c6de-4cb8-86a7-8042e5c5de69)
+![image](https://github.com/user-attachments/assets/7660091a-153e-433b-bce6-bcc1194d332f)
 
 ##### Добавьте страницу в репозиторий
 ```
 git add hello.html
 git commit -m "Initial Commit"
 ```
-![image](https://github.com/user-attachments/assets/fee1a212-a610-4df7-b447-3edd2ed63ab2)
+![image](https://github.com/user-attachments/assets/449c99ff-f6af-4378-acf8-e65c3a1057ef)
+
 
 
