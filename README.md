@@ -232,15 +232,16 @@ git config --global log.date short
 
 
 #### 8. [[⬆]](#toc) <a name='command'>Команды Git</a>
-
-commit  
-branch  
-checkout  
-cherry-pick  
-reset  
-revert  
-rebase  
-merge  
+```
+git commit  
+git branch  
+git checkout  
+git cherry-pick  
+git reset  
+git revert  
+git rebase  
+git merge
+```
 
 
 
