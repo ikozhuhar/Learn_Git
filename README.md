@@ -228,6 +228,7 @@ git log --pretty=format:"%h %ad | %s%d [%an]" --date=short
 ```
 git config --global format.pretty '%h %ad | %s%d [%an]'
 git config --global log.date short
+```
 
 
 #### 8. [[⬆]](#toc) <a name='command'>Команды Git</a>
