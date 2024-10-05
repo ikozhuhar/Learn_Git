@@ -231,7 +231,7 @@ git config --global log.date short
 
 
 #### 8. [[⬆]](#toc) <a name='command'>Команды Git</a>
-```
+
 commit  
 branch  
 checkout  
