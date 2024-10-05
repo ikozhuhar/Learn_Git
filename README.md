@@ -213,7 +213,7 @@ git log --pretty=format:"%h %ad | %s%d [%an]" --date=short
 ```
 ![image](https://github.com/user-attachments/assets/88506f7a-0f0e-4c67-80e9-53ccd9dd7677)
 
-Давайте рассмотрим его в деталях:
+**Давайте рассмотрим его в деталях:**
 ```
 --pretty="..." — определяет формат вывода.
 %h — укороченный хеш коммита.
