@@ -10,6 +10,7 @@
 7. [Изменения, а не файлы](#changes,_not_files)
 8. [История](#history)
 9. [Команды Git](#command)
+10. [Дополнительные материалы](#additional_materials)
 
 #### 1. [[⬆]](#toc) <a name='create_project'>Создание проекта</a>
 Цели: Научиться создавать Git-репозиторий с нуля.
@@ -244,6 +245,9 @@ git rebase
 git merge
 ```
 
+#### 8. [[⬆]](#toc) <a name='additional_materials'>Дополнительные материалы</a>
+
+1. [Pro Git book](https://git-scm.com/book/ru/v2)
 
 
 
