@@ -15,12 +15,14 @@ echo "Hello, World" >> hello.html
 ```
 
 ##### Создайте репозиторий
+Теперь у вас есть директория с одним файлом. Чтобы создать Git-репозиторий из этой директории, выполните команду `git init`.
 ```
 git init
 ```
 ![image](https://github.com/user-attachments/assets/7660091a-153e-433b-bce6-bcc1194d332f)
 
 ##### Добавьте страницу в репозиторий
+Теперь давайте добавим в репозиторий страницу «Hello, World».
 ```
 git add hello.html
 git commit -m "Initial Commit"
