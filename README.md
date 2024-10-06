@@ -234,15 +234,17 @@ git config --global log.date short
 
 
 #### 8. [[⬆]](#toc) <a name='command'>Команды Git</a>
-```
-git commit  
-git branch  
-git checkout  
-git cherry-pick  
-git reset  
-git revert  
-git rebase  
-git merge
+
+| Command | Description |
+| ----- | ------ |`
+| git commit | ... |
+| git branch | ... |
+| git checkout | ... |
+| git cherry-pick | ... |
+| git reset | ... |
+| git revert | ... |
+| git rebase | ... |
+| git merge | ... |
 ```
 
 #### 8. [[⬆]](#toc) <a name='additional_materials'>Дополнительные материалы</a>
