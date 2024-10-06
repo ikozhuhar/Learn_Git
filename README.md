@@ -236,7 +236,7 @@ git config --global log.date short
 #### 8. [[⬆]](#toc) <a name='command'>Команды Git</a>
 
 | Command | Description |
-| ----- | ------ |`
+| ------- | ----------- |
 | git commit | ... |
 | git branch | ... |
 | git checkout | ... |
@@ -245,7 +245,6 @@ git config --global log.date short
 | git revert | ... |
 | git rebase | ... |
 | git merge | ... |
-```
 
 #### 8. [[⬆]](#toc) <a name='additional_materials'>Дополнительные материалы</a>
 
